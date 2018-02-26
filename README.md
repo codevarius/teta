@@ -1,2 +1,2 @@
 # teta
-code pieces and short programs
+Code pieces and short programs
