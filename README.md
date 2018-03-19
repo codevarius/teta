@@ -1,2 +1,2 @@
 # teta
-Code pieces and short programs on python
+Code pieces and short programs on python.
