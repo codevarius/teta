@@ -1,2 +1,2 @@
 # teta
-Python cryptography.
+Code pieces and short programs on python.
